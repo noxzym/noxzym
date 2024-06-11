@@ -1,67 +1,12 @@
 # Hi 👋, I'm Orchitiadi Ismaulana Putra</h1>
 
 ### Connect With Me:
-<p>
-    <a href="https://linkedin.com/in/orchit" target="blank"
-        ><img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-            alt="orchit"
-            width="40"
-            height="40"
-    /></a>
-</p>
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/noxzym)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/orchit)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/243728573624614912)
 
 ### Language and Tools:
-<p>
-    <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-        alt="Typescript"
-        width="40"
-        height="40"
-    />
-    <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-        alt="Java"
-        width="40"
-        height="40"
-    />
-    <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-        alt="Python"
-        width="40"
-        height="40"
-    />
-    <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-        alt="Tailwindcss"
-        width="40"
-        height="40"
-    />
-    <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        alt="React"
-        width="40"
-        height="40"
-    />
-    <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-        alt="NodeJs"
-        width="40"
-        height="40"
-    />
-    <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-        alt="Mongodb"
-        width="40"
-        height="40"
-    />
-    <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-        alt="Figma"
-        width="40"
-        height="40"
-    />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,tailwind,react,nextjs,nodejs,postgres,mysql,vscode,git,figma)](https://skillicons.dev)
 
 <p>
     <img
